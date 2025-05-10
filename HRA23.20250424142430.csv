@@ -1,0 +1,1297 @@
+STATISTIC	Statistic Label	TLIST(A1)	Year	C02873V03456	Type of Admission	C02842V03416	Health Service Executive Area	C02922V03531	Marital Status	UNIT	VALUE
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	6129
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	3138
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1801
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	337
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	97
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	756
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	4154
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2084
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1127
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	227
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	109
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	607
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X03	HSE-South	-	All marital status	Number	5125
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X03	HSE-South	1	Single	Number	2885
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X03	HSE-South	2	Married	Number	1319
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X03	HSE-South	3	Widowed	Number	317
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X03	HSE-South	5	Divorced	Number	104
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X03	HSE-South	9	Unknown	Number	500
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X04	HSE-West	-	All marital status	Number	4819
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X04	HSE-West	1	Single	Number	2719
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X04	HSE-West	2	Married	Number	1231
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X04	HSE-West	3	Widowed	Number	219
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X04	HSE-West	5	Divorced	Number	120
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X04	HSE-West	9	Unknown	Number	530
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X06	Non-residents	-	All marital status	Number	61
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X06	Non-residents	1	Single	Number	38
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X06	Non-residents	2	Married	Number	17
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X06	Non-residents	3	Widowed	Number	0
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X06	Non-residents	5	Divorced	Number	0
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X06	Non-residents	9	Unknown	Number	6
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	20288
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	10864
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	5495
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	1100
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	430
+HRA23C1	Hospital Admissions (Number)	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	2399
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1718
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	866
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	526
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	99
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	25
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	202
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1184
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	569
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	358
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	63
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	32
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	162
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X03	HSE-South	-	All marital status	Number	1445
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X03	HSE-South	1	Single	Number	769
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X03	HSE-South	2	Married	Number	418
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X03	HSE-South	3	Widowed	Number	94
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X03	HSE-South	5	Divorced	Number	21
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X03	HSE-South	9	Unknown	Number	143
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X04	HSE-West	-	All marital status	Number	1217
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X04	HSE-West	1	Single	Number	654
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X04	HSE-West	2	Married	Number	354
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X04	HSE-West	3	Widowed	Number	56
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X04	HSE-West	5	Divorced	Number	29
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X04	HSE-West	9	Unknown	Number	124
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X06	Non-residents	-	All marital status	Number	37
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X06	Non-residents	1	Single	Number	21
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X06	Non-residents	2	Married	Number	11
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X06	Non-residents	3	Widowed	Number	0
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X06	Non-residents	5	Divorced	Number	0
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X06	Non-residents	9	Unknown	Number	5
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	5601
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	2879
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1667
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	312
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	107
+HRA23C1	Hospital Admissions (Number)	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	636
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	6115
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	3329
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1628
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	265
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	97
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	796
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	4226
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2163
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1064
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	229
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	91
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	679
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X03	HSE-South	-	All marital status	Number	5636
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X03	HSE-South	1	Single	Number	3335
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X03	HSE-South	2	Married	Number	1352
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X03	HSE-South	3	Widowed	Number	298
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X03	HSE-South	5	Divorced	Number	109
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X03	HSE-South	9	Unknown	Number	542
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X04	HSE-West	-	All marital status	Number	4726
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X04	HSE-West	1	Single	Number	2697
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X04	HSE-West	2	Married	Number	1215
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X04	HSE-West	3	Widowed	Number	220
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X04	HSE-West	5	Divorced	Number	83
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X04	HSE-West	9	Unknown	Number	511
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X06	Non-residents	-	All marital status	Number	66
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X06	Non-residents	1	Single	Number	34
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X06	Non-residents	2	Married	Number	15
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X06	Non-residents	9	Unknown	Number	12
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	20769
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	11558
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	5274
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	1013
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	384
+HRA23C1	Hospital Admissions (Number)	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	2540
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1610
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	847
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	480
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	69
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	22
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	192
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1227
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	614
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	311
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	59
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	27
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	216
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X03	HSE-South	-	All marital status	Number	1685
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X03	HSE-South	1	Single	Number	940
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X03	HSE-South	2	Married	Number	475
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X03	HSE-South	3	Widowed	Number	78
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X03	HSE-South	5	Divorced	Number	35
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X03	HSE-South	9	Unknown	Number	157
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X04	HSE-West	-	All marital status	Number	1289
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X04	HSE-West	1	Single	Number	724
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X04	HSE-West	2	Married	Number	359
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X04	HSE-West	3	Widowed	Number	58
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X04	HSE-West	5	Divorced	Number	23
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X04	HSE-West	9	Unknown	Number	125
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X06	Non-residents	-	All marital status	Number	42
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X06	Non-residents	1	Single	Number	23
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X06	Non-residents	2	Married	Number	9
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X06	Non-residents	9	Unknown	Number	7
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	5853
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3148
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1634
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	265
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	109
+HRA23C1	Hospital Admissions (Number)	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	697
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	5982
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	3155
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1736
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	268
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	80
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	743
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	4268
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2216
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1191
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	204
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	84
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	573
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X03	HSE-South	-	All marital status	Number	5641
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X03	HSE-South	1	Single	Number	3211
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X03	HSE-South	2	Married	Number	1517
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X03	HSE-South	3	Widowed	Number	243
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X03	HSE-South	5	Divorced	Number	139
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X03	HSE-South	9	Unknown	Number	531
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X04	HSE-West	-	All marital status	Number	4790
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X04	HSE-West	1	Single	Number	2701
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X04	HSE-West	2	Married	Number	1227
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X04	HSE-West	3	Widowed	Number	198
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X04	HSE-West	5	Divorced	Number	107
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X04	HSE-West	9	Unknown	Number	557
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X06	Non-residents	-	All marital status	Number	71
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X06	Non-residents	1	Single	Number	37
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X06	Non-residents	2	Married	Number	22
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X06	Non-residents	9	Unknown	Number	6
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	20752
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	11320
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	5693
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	915
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	414
+HRA23C1	Hospital Admissions (Number)	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	2410
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1776
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	859
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	579
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	87
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	20
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	231
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1385
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	715
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	416
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	65
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	30
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	159
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X03	HSE-South	-	All marital status	Number	1614
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X03	HSE-South	1	Single	Number	878
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X03	HSE-South	2	Married	Number	489
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X03	HSE-South	3	Widowed	Number	59
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X03	HSE-South	5	Divorced	Number	43
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X03	HSE-South	9	Unknown	Number	145
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X04	HSE-West	-	All marital status	Number	1372
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X04	HSE-West	1	Single	Number	741
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X04	HSE-West	2	Married	Number	420
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X04	HSE-West	3	Widowed	Number	60
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X04	HSE-West	5	Divorced	Number	29
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X04	HSE-West	9	Unknown	Number	122
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X06	Non-residents	-	All marital status	Number	47
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X06	Non-residents	1	Single	Number	26
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X06	Non-residents	2	Married	Number	13
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X06	Non-residents	9	Unknown	Number	5
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	6194
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3219
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1917
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	272
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	124
+HRA23C1	Hospital Admissions (Number)	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	662
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	5522
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	2917
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1554
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	253
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	202
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	596
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	4155
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2123
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1157
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	175
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	178
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	522
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X03	HSE-South	-	All marital status	Number	5496
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X03	HSE-South	1	Single	Number	3100
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X03	HSE-South	2	Married	Number	1430
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X03	HSE-South	3	Widowed	Number	254
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X03	HSE-South	5	Divorced	Number	174
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X03	HSE-South	9	Unknown	Number	538
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X04	HSE-West	-	All marital status	Number	4953
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X04	HSE-West	1	Single	Number	2715
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X04	HSE-West	2	Married	Number	1315
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X04	HSE-West	3	Widowed	Number	232
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X04	HSE-West	5	Divorced	Number	122
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X04	HSE-West	9	Unknown	Number	569
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X06	Non-residents	-	All marital status	Number	69
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X06	Non-residents	1	Single	Number	38
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X06	Non-residents	2	Married	Number	14
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X06	Non-residents	9	Unknown	Number	12
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	20195
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	10893
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	5470
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	917
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	678
+HRA23C1	Hospital Admissions (Number)	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	2237
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1646
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	828
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	505
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	76
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	45
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	192
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1255
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	612
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	410
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	50
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	41
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	142
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X03	HSE-South	-	All marital status	Number	1638
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X03	HSE-South	1	Single	Number	886
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X03	HSE-South	2	Married	Number	463
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X03	HSE-South	3	Widowed	Number	76
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X03	HSE-South	5	Divorced	Number	35
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X03	HSE-South	9	Unknown	Number	178
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X04	HSE-West	-	All marital status	Number	1390
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X04	HSE-West	1	Single	Number	686
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X04	HSE-West	2	Married	Number	444
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X04	HSE-West	3	Widowed	Number	71
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X04	HSE-West	5	Divorced	Number	37
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X04	HSE-West	9	Unknown	Number	152
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X06	Non-residents	-	All marital status	Number	43
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X06	Non-residents	1	Single	Number	21
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X06	Non-residents	2	Married	Number	9
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X06	Non-residents	9	Unknown	Number	9
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	5972
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3033
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1831
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	275
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	160
+HRA23C1	Hospital Admissions (Number)	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	673
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	5363
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	2838
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1506
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	280
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	202
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	537
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	4137
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2100
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1145
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	112
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	193
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	587
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X03	HSE-South	-	All marital status	Number	5373
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X03	HSE-South	1	Single	Number	3067
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X03	HSE-South	2	Married	Number	1418
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X03	HSE-South	3	Widowed	Number	222
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X03	HSE-South	5	Divorced	Number	158
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X03	HSE-South	9	Unknown	Number	508
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X04	HSE-West	-	All marital status	Number	4691
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X04	HSE-West	1	Single	Number	2665
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X04	HSE-West	2	Married	Number	1171
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X04	HSE-West	3	Widowed	Number	219
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X04	HSE-West	5	Divorced	Number	111
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X04	HSE-West	9	Unknown	Number	525
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X06	Non-residents	-	All marital status	Number	55
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X06	Non-residents	1	Single	Number	29
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X06	Non-residents	2	Married	Number	11
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X06	Non-residents	9	Unknown	Number	8
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	19619
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	10699
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	5251
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	836
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	668
+HRA23C1	Hospital Admissions (Number)	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	2165
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1674
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	856
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	494
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	96
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	43
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	185
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1521
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	738
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	451
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	33
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	54
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	245
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X03	HSE-South	-	All marital status	Number	1638
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X03	HSE-South	1	Single	Number	872
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X03	HSE-South	2	Married	Number	494
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X03	HSE-South	3	Widowed	Number	83
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X03	HSE-South	5	Divorced	Number	41
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X03	HSE-South	9	Unknown	Number	148
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X04	HSE-West	-	All marital status	Number	1392
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X04	HSE-West	1	Single	Number	739
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X04	HSE-West	2	Married	Number	414
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X04	HSE-West	3	Widowed	Number	70
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X04	HSE-West	5	Divorced	Number	27
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X04	HSE-West	9	Unknown	Number	142
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X06	Non-residents	-	All marital status	Number	41
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X06	Non-residents	1	Single	Number	22
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X06	Non-residents	2	Married	Number	10
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X06	Non-residents	9	Unknown	Number	6
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	6266
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3227
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1863
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	283
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	167
+HRA23C1	Hospital Admissions (Number)	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	726
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	5383
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	2770
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1602
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	271
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	197
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	543
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	4035
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	1989
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1005
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	147
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	187
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	707
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X03	HSE-South	-	All marital status	Number	5029
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X03	HSE-South	1	Single	Number	2891
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X03	HSE-South	2	Married	Number	1276
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X03	HSE-South	3	Widowed	Number	221
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X03	HSE-South	5	Divorced	Number	198
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X03	HSE-South	9	Unknown	Number	443
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X04	HSE-West	-	All marital status	Number	4496
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X04	HSE-West	1	Single	Number	2603
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X04	HSE-West	2	Married	Number	1110
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X04	HSE-West	3	Widowed	Number	212
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X04	HSE-West	5	Divorced	Number	108
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X04	HSE-West	9	Unknown	Number	463
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X06	Non-residents	-	All marital status	Number	49
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X06	Non-residents	1	Single	Number	25
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X06	Non-residents	2	Married	Number	11
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X06	Non-residents	3	Widowed	Number	0
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X06	Non-residents	5	Divorced	Number	5
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X06	Non-residents	9	Unknown	Number	8
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	18992
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	10278
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	5004
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	851
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	695
+HRA23C1	Hospital Admissions (Number)	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	2164
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1695
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	830
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	557
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	81
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	41
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	186
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1454
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	654
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	359
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	57
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	56
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	328
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X03	HSE-South	-	All marital status	Number	1657
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X03	HSE-South	1	Single	Number	881
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X03	HSE-South	2	Married	Number	512
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X03	HSE-South	3	Widowed	Number	75
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X03	HSE-South	5	Divorced	Number	57
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X03	HSE-South	9	Unknown	Number	132
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X04	HSE-West	-	All marital status	Number	1291
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X04	HSE-West	1	Single	Number	648
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X04	HSE-West	2	Married	Number	411
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X04	HSE-West	3	Widowed	Number	68
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X04	HSE-West	5	Divorced	Number	34
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X04	HSE-West	9	Unknown	Number	130
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X06	Non-residents	-	All marital status	Number	32
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X06	Non-residents	1	Single	Number	14
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X06	Non-residents	2	Married	Number	7
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X06	Non-residents	3	Widowed	Number	0
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X06	Non-residents	9	Unknown	Number	8
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	6129
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3027
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1846
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	281
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	191
+HRA23C1	Hospital Admissions (Number)	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	784
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	5090
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	2641
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1488
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	233
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	176
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	552
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	3944
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2167
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1032
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	146
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	195
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	404
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X03	HSE-South	-	All marital status	Number	4625
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X03	HSE-South	1	Single	Number	2609
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X03	HSE-South	2	Married	Number	1273
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X03	HSE-South	3	Widowed	Number	187
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X03	HSE-South	5	Divorced	Number	144
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X03	HSE-South	9	Unknown	Number	412
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X04	HSE-West	-	All marital status	Number	4460
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X04	HSE-West	1	Single	Number	2570
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X04	HSE-West	2	Married	Number	1065
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X04	HSE-West	3	Widowed	Number	177
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X04	HSE-West	5	Divorced	Number	139
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X04	HSE-West	9	Unknown	Number	509
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X06	Non-residents	-	All marital status	Number	54
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X06	Non-residents	1	Single	Number	34
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X06	Non-residents	2	Married	Number	5
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X06	Non-residents	9	Unknown	Number	8
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	18173
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	10021
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	4863
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	746
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	658
+HRA23C1	Hospital Admissions (Number)	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	1885
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1694
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	845
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	518
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	89
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	37
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	205
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1431
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	746
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	423
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	55
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	50
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	157
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X03	HSE-South	-	All marital status	Number	1609
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X03	HSE-South	1	Single	Number	819
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X03	HSE-South	2	Married	Number	528
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X03	HSE-South	3	Widowed	Number	79
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X03	HSE-South	5	Divorced	Number	46
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X03	HSE-South	9	Unknown	Number	137
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X04	HSE-West	-	All marital status	Number	1363
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X04	HSE-West	1	Single	Number	700
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X04	HSE-West	2	Married	Number	428
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X04	HSE-West	3	Widowed	Number	59
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X04	HSE-West	5	Divorced	Number	30
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X04	HSE-West	9	Unknown	Number	146
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X06	Non-residents	-	All marital status	Number	33
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X06	Non-residents	1	Single	Number	23
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X06	Non-residents	2	Married	Number	
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X06	Non-residents	9	Unknown	Number	
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	6130
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3133
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1898
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	284
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	166
+HRA23C1	Hospital Admissions (Number)	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	649
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	5221
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	2761
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1499
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	236
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	198
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	527
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	4151
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2222
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1050
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	184
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	222
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	473
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X03	HSE-South	-	All marital status	Number	4499
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X03	HSE-South	1	Single	Number	2545
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X03	HSE-South	2	Married	Number	1229
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X03	HSE-South	3	Widowed	Number	202
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X03	HSE-South	5	Divorced	Number	134
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X03	HSE-South	9	Unknown	Number	389
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X04	HSE-West	-	All marital status	Number	4532
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X04	HSE-West	1	Single	Number	2575
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X04	HSE-West	2	Married	Number	1151
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X04	HSE-West	3	Widowed	Number	172
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X04	HSE-West	5	Divorced	Number	135
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X04	HSE-West	9	Unknown	Number	499
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X06	Non-residents	-	All marital status	Number	54
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X06	Non-residents	1	Single	Number	28
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X06	Non-residents	2	Married	Number	8
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X06	Non-residents	9	Unknown	Number	15
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	18457
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	10131
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	4937
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	795
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	691
+HRA23C1	Hospital Admissions (Number)	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	1903
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1804
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	912
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	565
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	84
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	35
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	208
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1397
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	729
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	368
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	68
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	53
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	179
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X03	HSE-South	-	All marital status	Number	1472
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X03	HSE-South	1	Single	Number	770
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X03	HSE-South	2	Married	Number	466
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X03	HSE-South	3	Widowed	Number	75
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X03	HSE-South	5	Divorced	Number	39
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X03	HSE-South	9	Unknown	Number	122
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X04	HSE-West	-	All marital status	Number	1341
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X04	HSE-West	1	Single	Number	684
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X04	HSE-West	2	Married	Number	440
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X04	HSE-West	3	Widowed	Number	50
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X04	HSE-West	5	Divorced	Number	25
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X04	HSE-West	9	Unknown	Number	142
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X06	Non-residents	-	All marital status	Number	41
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X06	Non-residents	1	Single	Number	21
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X06	Non-residents	2	Married	Number	7
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X06	Non-residents	9	Unknown	Number	10
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	6055
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3116
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1846
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	278
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	154
+HRA23C1	Hospital Admissions (Number)	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	661
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	5251
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	2893
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	1431
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	244
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	194
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	489
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	3857
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	1	Single	Number	2180
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	2	Married	Number	1002
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	119
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	172
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	384
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X03	HSE-South	-	All marital status	Number	4377
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X03	HSE-South	1	Single	Number	2606
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X03	HSE-South	2	Married	Number	1064
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X03	HSE-South	3	Widowed	Number	197
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X03	HSE-South	5	Divorced	Number	158
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X03	HSE-South	9	Unknown	Number	352
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X04	HSE-West	-	All marital status	Number	4257
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X04	HSE-West	1	Single	Number	2407
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X04	HSE-West	2	Married	Number	1064
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X04	HSE-West	3	Widowed	Number	152
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X04	HSE-West	5	Divorced	Number	123
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X04	HSE-West	9	Unknown	Number	511
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X06	Non-residents	-	All marital status	Number	55
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X06	Non-residents	1	Single	Number	37
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X06	Non-residents	2	Married	Number	6
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X06	Non-residents	5	Divorced	Number	6
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X06	Non-residents	9	Unknown	Number	5
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	17797
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	Number	10123
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	Number	4567
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	713
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	653
+HRA23C1	Hospital Admissions (Number)	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	1741
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	Number	1755
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	Number	875
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	Number	526
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	Number	95
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	Number	53
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	Number	206
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	Number	1243
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	1	Single	Number	684
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	2	Married	Number	353
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	Number	38
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	Number	43
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	Number	125
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X03	HSE-South	-	All marital status	Number	1519
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X03	HSE-South	1	Single	Number	849
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X03	HSE-South	2	Married	Number	419
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X03	HSE-South	3	Widowed	Number	75
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X03	HSE-South	5	Divorced	Number	57
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X03	HSE-South	9	Unknown	Number	119
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X04	HSE-West	-	All marital status	Number	1382
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X04	HSE-West	1	Single	Number	721
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X04	HSE-West	2	Married	Number	398
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X04	HSE-West	3	Widowed	Number	59
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X04	HSE-West	5	Divorced	Number	24
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X04	HSE-West	9	Unknown	Number	180
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X06	Non-residents	-	All marital status	Number	43
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X06	Non-residents	1	Single	Number	28
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X06	Non-residents	2	Married	Number	6
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X06	Non-residents	3	Widowed	Number	
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X06	Non-residents	5	Divorced	Number	
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X06	Non-residents	9	Unknown	Number	
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	Number	5942
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	Number	3157
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	Number	1702
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	Number	268
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	Number	181
+HRA23C1	Hospital Admissions (Number)	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	Number	634
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	503
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	460
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	413
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	669
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	549
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	449
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	402
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	340
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	599
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	835
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	474
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	502
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	319
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	610
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	673
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	475
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	501
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	320
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	438
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	900
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	478
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	469
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	351
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	578
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	722
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	141
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	127
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	121
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	196
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	141
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	128
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	110
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	108
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	166
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	245
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	134
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	134
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	101
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	181
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	136
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	120
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	120
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	92
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	112
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	217
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	132
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	124
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	106
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	164
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	180
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2006	2006	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	502
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	488
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	373
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	526
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	549
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	457
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	418
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	321
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	604
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	697
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	521
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	580
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	327
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	573
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	705
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	466
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	497
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	316
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	440
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	622
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	490
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	499
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	337
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	532
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	645
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	132
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	124
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	110
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	137
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	124
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	133
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	118
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	94
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	156
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	207
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	156
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	164
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	115
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	150
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	226
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	127
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	133
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	93
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	116
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	172
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	138
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	136
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	104
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	139
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	183
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2007	2007	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	491
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	462
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	398
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	532
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	452
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	461
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	428
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	359
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	538
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	644
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	521
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	559
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	367
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	467
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	899
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	473
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	497
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	319
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	396
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	802
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	490
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	488
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	364
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	481
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	695
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	146
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	133
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	173
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	113
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	150
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	138
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	171
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	230
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	149
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	153
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	118
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	114
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	278
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	135
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	136
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	109
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	120
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	217
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	146
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	139
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	143
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	208
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2008	2008	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	453
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	428
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	356
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	502
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	1142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	449
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	410
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	349
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	462
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	1364
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	508
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	540
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	346
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	488
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	1125
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	489
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	500
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	342
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	464
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	915
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	476
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	470
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	350
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	482
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	1139
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	135
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	121
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	116
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	151
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	254
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	136
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	118
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	124
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	132
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	314
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	151
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	154
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	112
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	146
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	226
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	137
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	116
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	277
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	141
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	131
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	117
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	144
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	269
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2009	2009	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	440
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	416
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	345
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	556
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	1142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	447
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	405
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	345
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	295
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	1479
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	497
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	534
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	343
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	427
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	1022
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	463
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	491
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	305
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	438
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	832
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	463
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	462
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	336
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	439
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	1122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	137
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	113
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	190
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	243
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	164
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	136
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	87
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	414
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	151
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	152
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	120
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	160
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	265
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	137
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	136
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	108
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	140
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	202
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	148
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	139
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	119
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	149
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	280
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2010	2010	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	398
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	406
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	367
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	538
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	1114
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	396
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	384
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	303
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	388
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	1433
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	444
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	503
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	309
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	425
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	1281
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	415
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	479
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	289
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	424
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	810
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	414
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	414
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	293
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	445
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	792
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	125
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	128
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	161
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	232
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	143
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	108
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	150
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	429
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	146
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	153
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	124
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	144
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	369
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	119
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	119
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	107
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	136
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	255
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	134
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	108
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	147
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	218
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2011	2011	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	377
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	353
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	304
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	451
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	675
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	387
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	385
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	279
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	377
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	980
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	408
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	436
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	293
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	368
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	646
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	411
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	447
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	257
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	355
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	713
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	396
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	403
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	285
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	390
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	750
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	125
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	113
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	106
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	172
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	140
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	132
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	114
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	251
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	137
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	156
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	206
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	103
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	118
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	154
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	134
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	111
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	149
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	189
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2012	2012	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	386
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	369
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	306
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	456
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	759
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	408
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	394
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	284
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	475
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	1116
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	397
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	425
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	283
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	398
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	601
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	418
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	448
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	278
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	345
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	692
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	402
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	408
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	289
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	416
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	787
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	134
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	115
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	162
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	134
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	137
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	129
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	99
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	176
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	266
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	130
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	129
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	107
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	148
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	175
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	124
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	119
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	106
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	100
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	128
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	132
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	125
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	108
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	146
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	176
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2013	2013	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	388
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	386
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	292
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	472
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	744
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	379
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	387
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	271
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	308
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	865
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	386
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	436
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	245
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	388
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	708
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	393
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	419
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	257
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	305
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	631
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	388
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	407
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	267
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	373
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	744
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	-	All admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	-	All marital status	"Rate per 100,000 Pop."	130
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	1	Single	"Rate per 100,000 Pop."	117
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	2	Married	"Rate per 100,000 Pop."	107
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	3	Widowed	"Rate per 100,000 Pop."	184
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	5	Divorced	"Rate per 100,000 Pop."	203
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X01	HSE-Dublin/Mid-Leinster	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	-	All marital status	"Rate per 100,000 Pop."	122
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	1	Single	"Rate per 100,000 Pop."	121
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	2	Married	"Rate per 100,000 Pop."	95
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	3	Widowed	"Rate per 100,000 Pop."	98
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	5	Divorced	"Rate per 100,000 Pop."	216
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X02	HSE-Dublin/North-East	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X03	HSE-South	-	All marital status	"Rate per 100,000 Pop."	134
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X03	HSE-South	1	Single	"Rate per 100,000 Pop."	142
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X03	HSE-South	2	Married	"Rate per 100,000 Pop."	96
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X03	HSE-South	3	Widowed	"Rate per 100,000 Pop."	148
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X03	HSE-South	5	Divorced	"Rate per 100,000 Pop."	256
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X03	HSE-South	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X04	HSE-West	-	All marital status	"Rate per 100,000 Pop."	128
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X04	HSE-West	1	Single	"Rate per 100,000 Pop."	126
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X04	HSE-West	2	Married	"Rate per 100,000 Pop."	96
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X04	HSE-West	3	Widowed	"Rate per 100,000 Pop."	118
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X04	HSE-West	5	Divorced	"Rate per 100,000 Pop."	123
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X04	HSE-West	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X06	Non-residents	-	All marital status	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X06	Non-residents	1	Single	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X06	Non-residents	2	Married	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X06	Non-residents	3	Widowed	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X06	Non-residents	5	Divorced	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X06	Non-residents	9	Unknown	"Rate per 100,000 Pop."	
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	-	All marital status	"Rate per 100,000 Pop."	130
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	1	Single	"Rate per 100,000 Pop."	127
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	2	Married	"Rate per 100,000 Pop."	100
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	3	Widowed	"Rate per 100,000 Pop."	140
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	5	Divorced	"Rate per 100,000 Pop."	206
+HRA23C2	"Hospital Admissions (Rate per 100,000 Pop.)"	2014	2014	1	First admissions	X23	All HSE areas incl. non-residents	9	Unknown	"Rate per 100,000 Pop."	
